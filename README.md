@@ -70,7 +70,7 @@ Upon studying this report, readers will understand:
 6. Current frontiers: Open problems in particle physics and cosmology
    
 ## 📝 Citation
-'''
+'''bash
 @report{sil2026qft,
   author = {Sil, Krishnanjan},
   title = {Quantum Field Theory: From First Principles to Particle Physics},
