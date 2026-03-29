@@ -16,10 +16,6 @@ This repository contains a comprehensive reading project report that traces the 
 3. **"Neutrino Oscillations"** - Bellini, Ludhova, Ranucci & Villante (2014) on mixing, matter effects, and experimental saga
 
 ## 🏗️ Project Structure
-QFT-Project/
-├── README.md                 # This file
-├──
-
 
 ## 📖 Contents
 
