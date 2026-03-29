@@ -1,4 +1,4 @@
-# QFT-Project at PaAC, IIT Roorkee
+# QFT Project at PaAC, IIT Roorkee
 ## Quantum Field Theory: From First Principles to Particle Physics
 
 [![LaTeX](https://img.shields.io/badge/LaTeX-Project-blue.svg)](https://latex-project.org/)
