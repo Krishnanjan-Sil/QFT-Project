@@ -79,6 +79,18 @@ Upon studying this report, readers will understand:
   type = {Reading Project Report},
   institution = {Based on reviews by Bellini et al., Ellis, and Particles and Fields}
 }
+## 📝 Citation
+
+```bibtex
+@report{sil2026qft,
+  author = {Sil, Krishnanjan},
+  title = {Quantum Field Theory: From First Principles to Particle Physics},
+  year = {2026},
+  month = {March},
+  type = {Reading Project Report},
+  institution = {Based on reviews by Bellini et al., Ellis, and Particles and Fields}
+}
+```
 
 ## 🔍 Keywords
 Quantum Field Theory | Standard Model | Higgs Mechanism | Neutrino Oscillations | Gauge Theory | Spontaneous Symmetry Breaking | Fock Space | Renormalization Group | Lattice QCD | Effective Field Theory
