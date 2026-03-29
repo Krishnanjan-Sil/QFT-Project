@@ -60,7 +60,7 @@ This repository contains a comprehensive reading project report that traces the 
 - Future colliders: ILC, CLIC, FCC-ee, 100 TeV hadron collider
 - Quantum gravity and ultimate theoretical challenges
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 Upon studying this report, readers will understand:
 1. Mathematical foundations: Fock spaces, creation/annihilation operators, path integrals
 2. Quantization procedures: Canonical quantization of fields with proper handling of gauge symmetries
@@ -68,7 +68,8 @@ Upon studying this report, readers will understand:
 4. Non-perturbative methods: Lattice QCD, mean-field theory, effective field theories
 5. Standard Model phenomenology: Higgs mechanism, neutrino oscillations, gauge theories
 6. Current frontiers: Open problems in particle physics and cosmology
-📝 Citation
+   
+## 📝 Citation
 @report{sil2026qft,
   author = {Sil, Krishnanjan},
   title = {Quantum Field Theory: From First Principles to Particle Physics},
@@ -77,9 +78,11 @@ Upon studying this report, readers will understand:
   type = {Reading Project Report},
   institution = {Based on reviews by Bellini et al., Ellis, and Particles and Fields}
 }
-🔍 Keywords
+
+## 🔍 Keywords
 Quantum Field Theory | Standard Model | Higgs Mechanism | Neutrino Oscillations | Gauge Theory | Spontaneous Symmetry Breaking | Fock Space | Renormalization Group | Lattice QCD | Effective Field Theory
-📧 Contact
+
+## 📧 Contact
 Author: Krishnanjan Sil
 GitHub: @Krishnanjan-Sil
 Project Link: https://github.com/Krishnanjan-Sil/QFT-Project
