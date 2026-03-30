@@ -5,7 +5,7 @@
 [![Physics](https://img.shields.io/badge/Subject-Quantum%20Field%20Theory-red.svg)]()
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
 
-&gt; **A Reading Project Report** bridging the abstract mathematics of Quantum Field Theory with the tangible triumphs of experimental particle physics.
+&gt; **A Reading Project Report** bridging the abstract mathematics of Quantum Field Theory with the tangible triumphs of particle physics.
 
 ## 📚 Overview
 
